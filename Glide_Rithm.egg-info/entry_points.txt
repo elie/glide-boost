@@ -1,0 +1,4 @@
+[sphinx.html_themes]
+handouts-rithm = glide_rithm
+revealjs-rithm = glide_rithm
+
