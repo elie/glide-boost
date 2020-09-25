@@ -17,6 +17,6 @@ setup(
         'sphinx.html_themes': [
             'revealjs-rithm = glide_rithm',
             'handouts-rithm = glide_rithm',
-        ]
+        ],
     },
 )
