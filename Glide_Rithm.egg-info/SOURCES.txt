@@ -9,6 +9,6 @@ Glide_Rithm.egg-info/requires.txt
 Glide_Rithm.egg-info/top_level.txt
 glide_rithm/__init__.py
 glide_rithm/themes/handouts-rithm/theme.conf
-glide_rithm/themes/handouts-rithm/static/logo.png
+glide_rithm/themes/handouts-rithm/static/rithm.png
 glide_rithm/themes/revealjs-rithm/theme.conf
-glide_rithm/themes/revealjs-rithm/static/footer-logo.png
+glide_rithm/themes/revealjs-rithm/static/rithm.png
