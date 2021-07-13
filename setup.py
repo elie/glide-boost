@@ -4,19 +4,19 @@
 from setuptools import setup
 
 setup(
-    name='Glide Rithm',
+    name='Glide Toptal',
     version='1.5.0',
-    description='Rithm themes for Glide.',
+    description='toptal themes for Glide.',
     author='Joel Burton',
     author_email='joel@joelburton.com',
-    url='https://github.com/joelburton/glide-rithm',
-    packages=['glide_rithm'],
+    url='https://github.com/joelburton/glide-toptal',
+    packages=['glide_toptal'],
     install_requires=["glide"],
     include_package_data=True,
     entry_points={
         'sphinx.html_themes': [
-            'revealjs-rithm = glide_rithm',
-            'handouts-rithm = glide_rithm',
+            'revealjs-toptal = glide_toptal',
+            'handouts-toptal = glide_toptal',
         ],
     },
 )
