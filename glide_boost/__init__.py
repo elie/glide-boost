@@ -5,10 +5,10 @@ version = "1.5.0"
 
 def setup(app):
     app.add_html_theme(
-        'revealjs-toptal',
+        'revealjs-boost',
         path.abspath(
-            path.join(path.dirname(__file__), "themes", "revealjs-toptal")))
+            path.join(path.dirname(__file__), "themes", "revealjs-boost")))
     app.add_html_theme(
-        'handouts-toptal',
+        'handouts-boost',
         path.abspath(
-            path.join(path.dirname(__file__), "themes", "handouts-toptal")))
+            path.join(path.dirname(__file__), "themes", "handouts-boost")))
