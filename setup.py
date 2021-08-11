@@ -4,19 +4,19 @@
 from setuptools import setup
 
 setup(
-    name='Glide Toptal',
+    name='Glide boost',
     version='1.5.0',
-    description='toptal themes for Glide.',
+    description='boost themes for Glide.',
     author='Joel Burton',
     author_email='joel@joelburton.com',
-    url='https://github.com/joelburton/glide-toptal',
-    packages=['glide_toptal'],
+    url='https://github.com/joelburton/glide-boost',
+    packages=['glide_boost'],
     install_requires=["glide"],
     include_package_data=True,
     entry_points={
         'sphinx.html_themes': [
-            'revealjs-toptal = glide_toptal',
-            'handouts-toptal = glide_toptal',
+            'revealjs-boost = glide_boost',
+            'handouts-boost = glide_boost',
         ],
     },
 )

@@ -1,0 +1,14 @@
+MANIFEST.in
+README.rst
+setup.py
+Glide_Boost.egg-info/PKG-INFO
+Glide_Boost.egg-info/SOURCES.txt
+Glide_Boost.egg-info/dependency_links.txt
+Glide_Boost.egg-info/entry_points.txt
+Glide_Boost.egg-info/requires.txt
+Glide_Boost.egg-info/top_level.txt
+glide_boost/__init__.py
+glide_boost/themes/handouts-boost/theme.conf
+glide_boost/themes/handouts-boost/static/boost.png
+glide_boost/themes/revealjs-boost/theme.conf
+glide_boost/themes/revealjs-boost/static/boost.png

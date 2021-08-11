@@ -1,4 +1,0 @@
-[sphinx.html_themes]
-handouts-toptal = glide_toptal
-revealjs-toptal = glide_toptal
-

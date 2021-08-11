@@ -1,0 +1,4 @@
+[sphinx.html_themes]
+handouts-boost = glide_boost
+revealjs-boost = glide_boost
+
